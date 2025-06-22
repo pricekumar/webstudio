@@ -1,2 +1,2 @@
 # webstudio
-using htnl and css build web page
+using html and css build web page
